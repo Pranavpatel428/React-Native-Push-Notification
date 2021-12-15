@@ -1,6 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+//import { client } from './src/graphql/Client'
+//import { Headlines } from './src/graphql/Queries'
 
 const Header = () => (
   <View style={styles.header}>
